@@ -1,0 +1,72 @@
+version: "2"
+services:
+    bootnode:
+        hostname: bootnode
+        environment:
+            nodekeyhex: ba2b587b3b6dc1b614356af2efffbe017400fd521f62d4d7f891c9e3bdbab52c
+        build:
+            context: .
+            dockerfile: ./bootnode/Dockerfile
+            args:
+                identity_arg: "bootnode"
+                ipv4_arg: "172.25.0.100"
+        container_name: bootnode
+        ports:
+            30310:30310/udp
+        networks:
+            roomnet:
+              ipv4_address: 172.25.0.100
+
+    node-1:
+        hostname: node-1
+        depends_on: 
+            bootnode
+        environment:
+            bootnodeId: f45659608c5461cf9ac69e6005e870a381916d0d5f4332da261a4055e4f92162cd8ea641c1fde9fc3114d39587ce070b72150fd9a9b9f42ad66cde44766406a0
+            bootnodeIp: 172.25.0.100
+        build:
+            context: .
+            dockerfile: ./node-1/Dockerfile
+            args:
+                identity_arg: "node-1"
+                rpcport_arg: 8548
+                ipv4_arg: "172.25.0.101"
+                port_arg: "30311"
+        container_name: node-1
+        volumes:
+            eth-data-1:/root/.ethash
+        ports:
+            8548:8548
+        networks:
+            roomnet:
+              ipv4_address: 172.25.0.101
+
+    node-2:
+        hostname: node-2
+        build:
+            context: .
+            dockerfile: ./node-2/Dockerfile
+            args:
+                identity_arg: "node-2"
+                rpcport_arg: 8549
+                ipv4_arg: "172.25.0.102"
+                port_arg: "30312"
+        container_name: node-2
+        volumes:
+            eth-data-2:/root/.ethash
+        ports:
+            8549:8549
+        networks:
+            roomnet:
+              ipv4_address: 172.25.0.102
+
+networks:
+  roomnet:
+    driver: bridge
+    ipam:
+      config:
+        subnet: 172.25.0.0/24
+
+volumes:
+  eth-data-1:
+  eth-data-2:
