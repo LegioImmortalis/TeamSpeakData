@@ -16,3 +16,4 @@
 2020-09-22 20:58:09.858737|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
 2020-09-22 20:58:10.004276|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
 2020-09-22 20:58:10.004639|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 
+2020-09-22 21:18:34.474579|INFO    |ServerMain    |   |Received signal SIGTERM, shutting down.
