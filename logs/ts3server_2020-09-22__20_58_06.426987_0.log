@@ -1,0 +1,18 @@
+2020-09-22 20:58:06.427024|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.12.1 (2020-03-27 10:38:47)
+2020-09-22 20:58:06.427174|INFO    |ServerLibPriv |   |SystemInformation: Linux 5.4.0-31-generic #35-Ubuntu SMP Thu May 7 20:20:34 UTC 2020 x86_64 Binary: 64bit
+2020-09-22 20:58:06.427213|INFO    |ServerLibPriv |   |Using hardware aes
+2020-09-22 20:58:06.430437|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2020-09-22 20:58:06.430513|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2020-09-22 20:58:06.432743|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2020-09-22 20:58:06.645959|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2020-09-22 20:58:06.673316|INFO    |Accounting    |   |Licensing Information
+2020-09-22 20:58:06.673384|INFO    |Accounting    |   |licensed to       : Anonymous
+2020-09-22 20:58:06.673410|INFO    |Accounting    |   |type              : No License
+2020-09-22 20:58:06.673438|INFO    |Accounting    |   |starting date     : Sat Feb  1 00:00:00 2020
+2020-09-22 20:58:06.673461|INFO    |Accounting    |   |ending date       : Mon Feb  1 00:00:00 2021
+2020-09-22 20:58:06.673482|INFO    |Accounting    |   |max virtualservers: 1
+2020-09-22 20:58:06.673502|INFO    |Accounting    |   |max slots         : 32
+2020-09-22 20:58:09.855806|INFO    |              |   |Puzzle precompute time: 3117
+2020-09-22 20:58:09.858737|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2020-09-22 20:58:10.004276|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2020-09-22 20:58:10.004639|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 

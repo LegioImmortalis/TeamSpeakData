@@ -1,0 +1,8 @@
+2020-09-22 20:44:08.016453|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2020-09-22 20:44:08.017572|WARNING |VirtualServer |1  |--------------------------------------------------------
+2020-09-22 20:44:08.017910|WARNING |VirtualServer |1  |ServerAdmin privilege key created, please use the line below
+2020-09-22 20:44:08.018202|WARNING |VirtualServer |1  |token=x8MOFybJQMFyIzvXjuxx6RBbjMOktDwBdkqysGel
+2020-09-22 20:44:08.018478|WARNING |VirtualServer |1  |--------------------------------------------------------
+2020-09-22 20:46:04.182454|INFO    |VirtualServer |1  |client (id:3) was added to servergroup 'Server Admin'(id:6) by client 'server'(id:0)
+2020-09-22 20:46:04.183098|INFO    |VirtualServer |1  |client 'sugo'(id:3) used privilege key 'x8MOFybJQMFyIzvXjuxx6RBbjMOktDwBdkqysGel' and was added to servergroup 'Server Admin'(id:6)
+2020-09-22 20:53:29.405236|INFO    |VirtualServerBase|1  |stopped
