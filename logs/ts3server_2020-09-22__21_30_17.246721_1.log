@@ -1,1 +1,62 @@
 2020-09-22 21:30:20.782090|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2020-09-22 22:14:53.072774|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:45465487) was added by 'sugo'(id:3) to channel 'wow szintezés'(id:9)
+2020-09-22 22:20:25.464444|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:753886704) was added by 'sugo'(id:3) to channel 'RO'(id:36)
+2020-09-22 22:25:40.030747|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-241436950) was added by 'sugo'(id:3) to channel 'Twitch'(id:11)
+2020-09-22 22:29:57.100298|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-1923506186) was added by 'sugo'(id:3) to channel 'Discord'(id:20)
+2020-09-22 22:31:29.871626|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-123827579) was added by 'sugo'(id:3) to channel 'Discord'(id:20)
+2020-09-22 22:33:28.025415|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-2028584235) was added by 'sugo'(id:3) to channel 'Discord'(id:20)
+2020-09-22 22:39:03.584587|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-1005654190) was added by 'sugo'(id:3) to channel 'RO'(id:36)
+2020-09-22 22:41:18.044127|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-185410040) was added by 'sugo'(id:3) to channel 'A/V'(id:7)
+2020-09-23 16:14:36.598460|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2020-09-23 18:39:02.127486|INFO    |VirtualServer |1  |client (id:7) was added to servergroup 'Server Admin'(id:6) by client 'sugo'(id:3)
+2020-09-23 18:39:05.537438|INFO    |VirtualServer |1  |client (id:5) was added to servergroup 'Server Admin'(id:6) by client 'sugo'(id:3)
+2020-09-23 18:39:09.529842|INFO    |VirtualServer |1  |client (id:6) was added to servergroup 'Server Admin'(id:6) by client 'sugo'(id:3)
+2020-09-23 18:39:22.913039|INFO    |VirtualServer |1  |client (id:4) was added to servergroup 'Server Admin'(id:6) by client 'sugo'(id:3)
+2020-09-23 18:40:07.562524|INFO    |VirtualServer |1  |client (id:8) was added to servergroup 'Server Admin'(id:6) by client 'sugo'(id:3)
+2020-09-23 18:51:38.829740|INFO    |VirtualServer |1  |client (id:9) was added to servergroup 'Server Admin'(id:6) by client 'Drakown'(id:4)
+2020-09-23 18:55:49.728347|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
+2020-09-23 18:58:49.211570|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2020-09-23 18:58:49.212219|INFO    |PktHandler    |1  |Dropping client 9 because of resend timeout
+2020-09-23 19:34:46.963407|INFO    |PktHandler    |1  |Dropping client 11 because of ping timeout 19 0 0
+2020-09-23 19:46:10.822352|INFO    |PktHandler    |1  |Dropping client 15 because of ping timeout 19 0 0
+2020-09-23 20:31:31.665684|INFO    |VirtualServer |1  |client (id:11) was added to servergroup 'Server Admin'(id:6) by client 'sugo'(id:3)
+2020-09-23 21:01:53.134196|INFO    |PktHandler    |1  |Dropping client 17 because of ping timeout 19 0 0
+2020-09-24 18:56:39.484388|INFO    |PktHandler    |1  |Dropping client 24 because of ping timeout 19 0 0
+2020-09-24 19:06:06.037576|INFO    |PktHandler    |1  |Dropping client 20 because of ping timeout 19 0 0
+2020-09-24 19:13:22.198552|INFO    |PktHandler    |1  |Dropping client 26 because of ping timeout 19 0 0
+2020-09-24 19:22:19.891630|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2020-09-24 19:22:19.892296|INFO    |PktHandler    |1  |Dropping client 25 because of resend timeout
+2020-09-24 20:11:04.781395|INFO    |PktHandler    |1  |Dropping client 19 because of ping timeout 19 0 0
+2020-09-24 20:14:27.325298|INFO    |PktHandler    |1  |Dropping client 27 because of ping timeout 19 0 0
+2020-09-24 21:41:06.304903|INFO    |PktHandler    |1  |Dropping client 28 because of ping timeout 19 0 0
+2020-09-25 10:00:18.128100|INFO    |PktHandler    |1  |Dropping client 32 because of ping timeout 19 0 0
+2020-09-25 18:47:44.152793|INFO    |PktHandler    |1  |Dropping client 34 because of ping timeout 19 0 0
+2020-09-26 08:47:38.125414|INFO    |PktHandler    |1  |Dropping client 38 because of ping timeout 19 0 0
+2020-09-26 09:39:57.866720|INFO    |PktHandler    |1  |Dropping client 44 because of ping timeout 19 0 0
+2020-09-26 11:02:10.315304|INFO    |PktHandler    |1  |Dropping client 46 because of ping timeout 19 0 0
+2020-09-26 14:50:36.732331|INFO    |PktHandler    |1  |Dropping client 47 because of ping timeout 19 0 0
+2020-09-26 15:19:23.476512|INFO    |VirtualServer |1  |client (id:13) was added to servergroup 'Server Admin'(id:6) by client 'sugo'(id:3)
+2020-09-26 15:58:26.886232|INFO    |PktHandler    |1  |Dropping client 49 because of ping timeout 19 0 0
+2020-09-26 19:04:38.380412|INFO    |PktHandler    |1  |Dropping client 52 because of ping timeout 19 0 0
+2020-09-26 19:04:38.385192|INFO    |PktHandler    |1  |Dropping client 48 because of ping timeout 19 0 0
+2020-09-26 19:35:01.382745|INFO    |PktHandler    |1  |Dropping client 54 because of ping timeout 19 0 0
+2020-09-27 06:24:13.384239|INFO    |PktHandler    |1  |Dropping client 57 because of ping timeout 19 0 0
+2020-09-27 07:44:54.254676|INFO    |PktHandler    |1  |Dropping client 59 because of ping timeout 19 0 0
+2020-09-27 08:47:54.413123|INFO    |PktHandler    |1  |Dropping client 60 because of ping timeout 19 0 0
+2020-09-27 08:54:08.411405|INFO    |PktHandler    |1  |Dropping client 55 because of ping timeout 19 0 0
+2020-09-27 09:04:12.068134|INFO    |PktHandler    |1  |Dropping client 62 because of ping timeout 19 0 0
+2020-09-27 10:39:14.566077|INFO    |PktHandler    |1  |Dropping client 61 because of ping timeout 19 0 0
+2020-09-27 12:33:31.221977|INFO    |PktHandler    |1  |Dropping client 63 because of ping timeout 19 0 0
+2020-09-27 13:11:17.220555|INFO    |PktHandler    |1  |Dropping client 66 because of ping timeout 19 0 0
+2020-09-27 14:02:19.652345|INFO    |PktHandler    |1  |Dropping client 64 because of ping timeout 19 0 0
+2020-09-27 14:12:36.388391|INFO    |PktHandler    |1  |Dropping client 68 because of ping timeout 19 0 0
+2020-09-27 14:19:47.588441|INFO    |PktHandler    |1  |Dropping client 69 because of ping timeout 19 0 0
+2020-09-27 14:22:51.149318|INFO    |PktHandler    |1  |Dropping client 67 because of ping timeout 19 0 0
+2020-09-27 14:34:44.164025|INFO    |PktHandler    |1  |Dropping client 72 because of ping timeout 19 0 0
+2020-09-27 14:52:41.172746|INFO    |PktHandler    |1  |Dropping client 73 because of ping timeout 19 0 0
+2020-09-27 15:51:42.105224|INFO    |PktHandler    |1  |Dropping client 74 because of ping timeout 19 0 0
+2020-09-27 17:47:51.560659|INFO    |PktHandler    |1  |Dropping client 41 because of ping timeout 19 0 0
+2020-09-27 20:42:28.523726|INFO    |PktHandler    |1  |Dropping client 77 because of ping timeout 19 0 0
+2020-09-27 21:08:49.801912|INFO    |PktHandler    |1  |Dropping client 58 because of ping timeout 19 0 0
+2020-09-27 21:10:02.988045|INFO    |PktHandler    |1  |Dropping client 80 because of ping timeout 19 0 0
+2020-09-28 12:36:25.514995|INFO    |PktHandler    |1  |Dropping client 84 because of ping timeout 19 0 0
