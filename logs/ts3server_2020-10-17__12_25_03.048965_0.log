@@ -1,0 +1,65 @@
+2020-10-17 12:25:03.049004|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.12.1 (2020-03-27 10:38:47)
+2020-10-17 12:25:03.049146|INFO    |ServerLibPriv |   |SystemInformation: Linux 5.4.0-51-generic #56-Ubuntu SMP Mon Oct 5 14:28:49 UTC 2020 x86_64 Binary: 64bit
+2020-10-17 12:25:03.049188|INFO    |ServerLibPriv |   |Using hardware aes
+2020-10-17 12:25:03.061170|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2020-10-17 12:25:03.061238|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2020-10-17 12:25:03.066227|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2020-10-17 12:25:03.287759|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2020-10-17 12:25:03.316503|INFO    |Accounting    |   |Licensing Information
+2020-10-17 12:25:03.316577|INFO    |Accounting    |   |licensed to       : Anonymous
+2020-10-17 12:25:03.316606|INFO    |Accounting    |   |type              : No License
+2020-10-17 12:25:03.316637|INFO    |Accounting    |   |starting date     : Sat Feb  1 00:00:00 2020
+2020-10-17 12:25:03.316664|INFO    |Accounting    |   |ending date       : Mon Feb  1 00:00:00 2021
+2020-10-17 12:25:03.316688|INFO    |Accounting    |   |max virtualservers: 1
+2020-10-17 12:25:03.316710|INFO    |Accounting    |   |max slots         : 32
+2020-10-17 12:25:07.132839|INFO    |              |   |Puzzle precompute time: 3752
+2020-10-17 12:25:07.136054|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2020-10-17 12:25:07.285898|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2020-10-17 12:25:07.286281|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 
+2020-10-17 20:44:14.681129|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-10-18 20:44:14.894125|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-10-19 20:44:15.108363|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-10-20 20:44:15.419369|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-10-21 20:44:15.687058|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-10-22 20:44:15.799976|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-10-23 20:44:16.039182|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-10-24 20:44:16.072408|INFO    |ServerLibPriv |   |failed to download revocation list - count: 1
+2020-10-24 23:44:16.260343|INFO    |ServerLibPriv |   |failed to download revocation list - count: 2
+2020-10-25 02:44:16.477039|INFO    |ServerLibPriv |   |failed to download revocation list - count: 3
+2020-10-25 05:44:16.681468|INFO    |ServerLibPriv |   |failed to download revocation list - count: 4
+2020-10-25 08:44:16.892189|INFO    |ServerLibPriv |   |failed to download revocation list - count: 5
+2020-10-25 11:44:17.103128|INFO    |ServerLibPriv |   |failed to download revocation list - count: 6
+2020-10-25 14:44:17.339060|INFO    |ServerLibPriv |   |failed to download revocation list - count: 7
+2020-10-25 17:44:17.539333|INFO    |ServerLibPriv |   |failed to download revocation list - count: 8
+2020-10-25 20:44:17.732750|INFO    |ServerLibPriv |   |failed to download revocation list - count: 9
+2020-10-25 23:44:17.955344|INFO    |ServerLibPriv |   |failed to download revocation list - count: 10
+2020-10-26 02:44:18.155498|INFO    |ServerLibPriv |   |failed to download revocation list - count: 11
+2020-10-26 05:44:18.347674|INFO    |ServerLibPriv |   |failed to download revocation list - count: 12
+2020-10-26 08:44:18.556520|INFO    |ServerLibPriv |   |failed to download revocation list - count: 13
+2020-10-26 11:44:18.993064|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-10-27 11:44:19.284871|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-10-28 11:44:19.497086|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-10-29 11:44:19.927134|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-10-30 11:44:20.191614|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-10-31 11:44:20.592375|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-11-01 00:01:03.270889|INFO    |VirtualSvrMgr |   |executing monthly interval
+2020-11-01 00:01:03.272291|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2020-11-01 11:44:20.687514|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-11-02 11:44:20.932911|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-11-03 08:57:20.338346|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: -3 (Try again) 22
+2020-11-03 11:44:21.178330|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-11-04 11:44:21.344598|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-11-05 11:44:21.579689|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-11-06 11:44:21.830776|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-11-07 11:44:22.066099|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-11-08 11:44:22.290986|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-11-09 11:44:22.516045|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-11-10 11:44:22.817663|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-11-11 11:44:23.237394|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-11-12 11:44:23.664266|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-11-13 11:44:23.755520|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-11-14 11:44:23.980446|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-11-15 11:44:24.233679|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-11-16 11:44:24.472924|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-11-17 11:44:24.705018|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-11-17 20:19:54.224641|INFO    |ServerMain    |   |Received signal SIGTERM, shutting down.

@@ -1,0 +1,139 @@
+2020-12-24 17:38:55.029227|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.12.1 (2020-03-27 10:38:47)
+2020-12-24 17:38:55.029370|INFO    |ServerLibPriv |   |SystemInformation: Linux 5.4.0-58-generic #64-Ubuntu SMP Wed Dec 9 08:16:25 UTC 2020 x86_64 Binary: 64bit
+2020-12-24 17:38:55.029408|INFO    |ServerLibPriv |   |Using hardware aes
+2020-12-24 17:38:55.033221|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2020-12-24 17:38:55.033277|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2020-12-24 17:38:55.035452|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2020-12-24 17:38:55.221801|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2020-12-24 17:38:55.249612|INFO    |Accounting    |   |Licensing Information
+2020-12-24 17:38:55.249680|INFO    |Accounting    |   |licensed to       : Anonymous
+2020-12-24 17:38:55.249717|INFO    |Accounting    |   |type              : No License
+2020-12-24 17:38:55.249748|INFO    |Accounting    |   |starting date     : Sat Feb  1 00:00:00 2020
+2020-12-24 17:38:55.249771|INFO    |Accounting    |   |ending date       : Mon Feb  1 00:00:00 2021
+2020-12-24 17:38:55.249791|INFO    |Accounting    |   |max virtualservers: 1
+2020-12-24 17:38:55.249811|INFO    |Accounting    |   |max slots         : 32
+2020-12-24 17:38:58.992962|INFO    |              |   |Puzzle precompute time: 3679
+2020-12-24 17:38:58.996237|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2020-12-24 17:38:59.163074|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2020-12-24 17:38:59.163575|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 
+2020-12-25 11:44:34.492045|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-26 11:44:34.629208|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-27 11:44:34.778231|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-28 11:44:34.911104|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-29 11:44:35.080199|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-30 11:44:35.252227|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-31 11:44:35.165930|INFO    |ServerLibPriv |   |failed to download revocation list - count: 1
+2020-12-31 14:44:35.368793|INFO    |ServerLibPriv |   |failed to download revocation list - count: 2
+2020-12-31 17:44:35.526729|INFO    |ServerLibPriv |   |failed to download revocation list - count: 3
+2020-12-31 20:44:35.748798|INFO    |ServerLibPriv |   |failed to download revocation list - count: 4
+2020-12-31 23:44:35.970416|INFO    |ServerLibPriv |   |failed to download revocation list - count: 5
+2021-01-01 00:02:55.204791|INFO    |VirtualSvrMgr |   |executing monthly interval
+2021-01-01 00:02:55.206883|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2021-01-01 02:44:36.190869|INFO    |ServerLibPriv |   |failed to download revocation list - count: 6
+2021-01-01 05:44:36.406222|INFO    |ServerLibPriv |   |failed to download revocation list - count: 7
+2021-01-01 08:44:36.628287|INFO    |ServerLibPriv |   |failed to download revocation list - count: 8
+2021-01-01 11:44:36.829527|INFO    |ServerLibPriv |   |failed to download revocation list - count: 9
+2021-01-01 14:44:37.058791|INFO    |ServerLibPriv |   |failed to download revocation list - count: 10
+2021-01-01 17:44:37.196148|INFO    |ServerLibPriv |   |failed to download revocation list - count: 11
+2021-01-01 20:44:37.416757|INFO    |ServerLibPriv |   |failed to download revocation list - count: 12
+2021-01-01 23:44:37.629265|INFO    |ServerLibPriv |   |failed to download revocation list - count: 13
+2021-01-02 02:44:37.846275|INFO    |ServerLibPriv |   |failed to download revocation list - count: 14
+2021-01-02 05:44:38.043413|INFO    |ServerLibPriv |   |failed to download revocation list - count: 15
+2021-01-02 08:44:38.255658|INFO    |ServerLibPriv |   |failed to download revocation list - count: 16
+2021-01-02 11:44:38.474397|INFO    |ServerLibPriv |   |failed to download revocation list - count: 17
+2021-01-02 14:44:38.697437|INFO    |ServerLibPriv |   |failed to download revocation list - count: 18
+2021-01-02 17:44:38.877070|INFO    |ServerLibPriv |   |failed to download revocation list - count: 19
+2021-01-02 20:44:39.181843|INFO    |ServerLibPriv |   |failed to download revocation list - count: 20
+2021-01-02 23:44:39.405766|INFO    |ServerLibPriv |   |failed to download revocation list - count: 21
+2021-01-03 02:44:39.614465|INFO    |ServerLibPriv |   |failed to download revocation list - count: 22
+2021-01-03 05:44:39.843849|INFO    |ServerLibPriv |   |failed to download revocation list - count: 23
+2021-01-03 08:44:40.066165|INFO    |ServerLibPriv |   |failed to download revocation list - count: 24
+2021-01-03 11:44:40.284990|INFO    |ServerLibPriv |   |failed to download revocation list - count: 25
+2021-01-03 14:44:40.510862|INFO    |ServerLibPriv |   |failed to download revocation list - count: 26
+2021-01-03 17:44:40.686417|INFO    |ServerLibPriv |   |failed to download revocation list - count: 27
+2021-01-03 20:44:40.885749|INFO    |ServerLibPriv |   |failed to download revocation list - count: 28
+2021-01-03 23:44:41.075877|INFO    |ServerLibPriv |   |failed to download revocation list - count: 29
+2021-01-04 02:44:41.290232|INFO    |ServerLibPriv |   |failed to download revocation list - count: 30
+2021-01-04 05:44:41.515337|INFO    |ServerLibPriv |   |failed to download revocation list - count: 31
+2021-01-04 08:44:41.723009|INFO    |ServerLibPriv |   |failed to download revocation list - count: 32
+2021-01-04 11:44:42.145346|INFO    |ServerLibPriv |   |failed to download revocation list - count: 33
+2021-01-04 14:44:42.360592|INFO    |ServerLibPriv |   |failed to download revocation list - count: 34
+2021-01-04 17:44:42.506931|INFO    |ServerLibPriv |   |failed to download revocation list - count: 35
+2021-01-04 20:44:42.760154|INFO    |ServerLibPriv |   |failed to download revocation list - count: 36
+2021-01-04 23:44:42.984483|INFO    |ServerLibPriv |   |failed to download revocation list - count: 37
+2021-01-05 02:44:43.173691|INFO    |ServerLibPriv |   |failed to download revocation list - count: 38
+2021-01-05 05:44:43.393159|INFO    |ServerLibPriv |   |failed to download revocation list - count: 39
+2021-01-05 08:44:43.633608|INFO    |ServerLibPriv |   |failed to download revocation list - count: 40
+2021-01-05 11:44:44.186187|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-06 11:44:44.332474|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-07 11:44:44.622871|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-08 11:44:44.658539|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-09 11:44:44.947093|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-10 11:44:44.958791|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-11 11:44:45.111711|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-12 11:44:45.368568|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-13 11:44:45.438398|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-14 11:44:45.621050|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-15 11:44:45.894648|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-16 11:44:45.911121|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-17 11:44:46.079927|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-18 11:44:46.218158|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-19 11:44:46.376987|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-20 11:44:46.532154|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-21 11:44:46.736942|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-22 11:44:46.839312|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-23 11:44:46.991306|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-24 11:44:47.160029|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-25 11:44:47.315595|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-26 11:44:47.481915|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-27 11:44:47.656412|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-28 11:44:47.940549|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-29 11:44:47.970610|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-30 11:44:48.122058|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-31 11:44:48.290713|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-01 00:02:55.204793|INFO    |VirtualSvrMgr |   |executing monthly interval
+2021-02-01 00:02:55.206879|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2021-02-01 07:42:10.583069|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 07:43:11.611089|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 07:44:21.851622|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 07:45:27.297331|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 07:46:32.780077|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 07:47:32.999291|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 07:48:35.558514|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 07:49:41.055360|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 07:50:41.965642|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 07:51:59.216346|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 07:53:04.059743|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 07:54:12.831808|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 07:55:15.246591|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 07:56:20.669582|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 07:57:23.702161|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 07:58:24.287384|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 07:59:29.717288|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 08:00:43.030800|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 08:01:44.168516|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 08:02:49.652411|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 08:03:55.231350|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 08:05:05.468755|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 08:27:14.558549|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 11:44:48.518486|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-01 12:45:35.388163|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 12:46:50.713823|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 13:01:34.661301|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 13:38:37.079297|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 13:47:52.693418|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 14:33:11.011725|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 14:46:40.827284|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 15:01:53.503659|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 15:03:40.823097|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 15:37:32.749200|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 15:38:57.381906|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 15:48:30.206330|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 16:02:33.587314|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 16:11:09.619669|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 16:12:35.889623|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 16:20:17.368273|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 16:27:28.133161|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 16:28:34.468864|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2021-02-01 17:03:55.585250|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+                                                                                                 
