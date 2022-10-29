@@ -1,0 +1,120 @@
+2022-06-06 13:01:03.052634|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.13.6 (2021-06-09 10:22:37)
+2022-06-06 13:01:03.052755|INFO    |ServerLibPriv |   |SystemInformation: Linux 5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022 x86_64 Binary: 64bit
+2022-06-06 13:01:03.052816|INFO    |ServerLibPriv |   |Using hardware aes
+2022-06-06 13:01:03.055707|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2022-06-06 13:01:03.055785|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2022-06-06 13:01:03.057526|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2022-06-06 13:01:03.197870|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2022-06-06 13:01:03.224273|INFO    |Accounting    |   |Licensing Information
+2022-06-06 13:01:03.224341|INFO    |Accounting    |   |licensed to       : Anonymous
+2022-06-06 13:01:03.224388|INFO    |Accounting    |   |type              : No License
+2022-06-06 13:01:03.224431|INFO    |Accounting    |   |starting date     : Thu Oct  1 00:00:00 2020
+2022-06-06 13:01:03.224472|INFO    |Accounting    |   |ending date       : Tue Nov  1 00:00:00 2022
+2022-06-06 13:01:03.224507|INFO    |Accounting    |   |max virtualservers: 1
+2022-06-06 13:01:03.224530|INFO    |Accounting    |   |max slots         : 32
+2022-06-06 13:01:07.593298|INFO    |              |   |Puzzle precompute time: 4304
+2022-06-06 13:01:07.594982|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2022-06-06 13:01:07.624507|INFO    |Query         |   |Using a query thread pool size of 2
+2022-06-06 13:01:07.772845|INFO    |ServerLibPriv |   |failed to download revocation list - count: 1
+2022-06-06 13:01:07.802689|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2022-06-06 13:01:07.803642|INFO    |CIDRManager   |   |updated query_ip_allowlist ips: 127.0.0.1/32, ::1/128, 
+2022-06-06 16:01:07.944871|INFO    |ServerLibPriv |   |failed to download revocation list - count: 2
+2022-06-06 19:01:08.134508|INFO    |ServerLibPriv |   |failed to download revocation list - count: 3
+2022-06-06 21:28:32.166005|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-06-06 22:01:08.311031|INFO    |ServerLibPriv |   |failed to download revocation list - count: 4
+2022-06-07 01:01:08.483006|INFO    |ServerLibPriv |   |failed to download revocation list - count: 5
+2022-06-07 04:01:08.652546|INFO    |ServerLibPriv |   |failed to download revocation list - count: 6
+2022-06-07 07:01:08.836105|INFO    |ServerLibPriv |   |failed to download revocation list - count: 7
+2022-06-07 10:01:08.998785|INFO    |ServerLibPriv |   |failed to download revocation list - count: 8
+2022-06-07 13:01:09.165757|INFO    |ServerLibPriv |   |failed to download revocation list - count: 9
+2022-06-07 16:01:09.347705|INFO    |ServerLibPriv |   |failed to download revocation list - count: 10
+2022-06-07 19:01:09.519553|INFO    |ServerLibPriv |   |failed to download revocation list - count: 11
+2022-06-07 21:28:32.338155|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-06-07 22:01:09.668855|INFO    |ServerLibPriv |   |failed to download revocation list - count: 12
+2022-06-08 01:01:09.831861|INFO    |ServerLibPriv |   |failed to download revocation list - count: 13
+2022-06-08 04:01:10.011504|INFO    |ServerLibPriv |   |failed to download revocation list - count: 14
+2022-06-08 07:01:10.192035|INFO    |ServerLibPriv |   |failed to download revocation list - count: 15
+2022-06-08 10:01:10.378847|INFO    |ServerLibPriv |   |failed to download revocation list - count: 16
+2022-06-08 13:01:10.557045|INFO    |ServerLibPriv |   |failed to download revocation list - count: 17
+2022-06-08 16:01:10.726029|INFO    |ServerLibPriv |   |failed to download revocation list - count: 18
+2022-06-08 19:01:10.886367|INFO    |ServerLibPriv |   |failed to download revocation list - count: 19
+2022-06-08 21:28:32.593828|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-06-08 22:01:11.063336|INFO    |ServerLibPriv |   |failed to download revocation list - count: 20
+2022-06-09 01:01:11.232053|INFO    |ServerLibPriv |   |failed to download revocation list - count: 21
+2022-06-09 04:01:11.405055|INFO    |ServerLibPriv |   |failed to download revocation list - count: 22
+2022-06-09 07:01:11.588842|INFO    |ServerLibPriv |   |failed to download revocation list - count: 23
+2022-06-09 10:01:11.765807|INFO    |ServerLibPriv |   |failed to download revocation list - count: 24
+2022-06-09 13:01:11.955840|INFO    |ServerLibPriv |   |failed to download revocation list - count: 25
+2022-06-09 16:01:12.141167|INFO    |ServerLibPriv |   |failed to download revocation list - count: 26
+2022-06-09 19:01:12.311457|INFO    |ServerLibPriv |   |failed to download revocation list - count: 27
+2022-06-09 21:28:32.795184|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-06-09 22:01:12.470628|INFO    |ServerLibPriv |   |failed to download revocation list - count: 28
+2022-06-10 01:01:12.651640|INFO    |ServerLibPriv |   |failed to download revocation list - count: 29
+2022-06-10 04:01:12.830002|INFO    |ServerLibPriv |   |failed to download revocation list - count: 30
+2022-06-10 07:01:12.999390|INFO    |ServerLibPriv |   |failed to download revocation list - count: 31
+2022-06-10 10:01:13.186535|INFO    |ServerLibPriv |   |failed to download revocation list - count: 32
+2022-06-10 13:01:13.365287|INFO    |ServerLibPriv |   |failed to download revocation list - count: 33
+2022-06-10 16:01:13.549260|INFO    |ServerLibPriv |   |failed to download revocation list - count: 34
+2022-06-10 19:01:13.730205|INFO    |ServerLibPriv |   |failed to download revocation list - count: 35
+2022-06-10 21:28:32.938190|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-06-10 22:01:13.909078|INFO    |ServerLibPriv |   |failed to download revocation list - count: 36
+2022-06-11 01:01:14.088962|INFO    |ServerLibPriv |   |failed to download revocation list - count: 37
+2022-06-11 04:01:14.264174|INFO    |ServerLibPriv |   |failed to download revocation list - count: 38
+2022-06-11 07:01:14.441393|INFO    |ServerLibPriv |   |failed to download revocation list - count: 39
+2022-06-11 10:01:14.581717|INFO    |ServerLibPriv |   |failed to download revocation list - count: 40
+2022-06-11 13:01:14.751288|INFO    |ServerLibPriv |   |failed to download revocation list - count: 41
+2022-06-11 16:01:14.936593|INFO    |ServerLibPriv |   |failed to download revocation list - count: 42
+2022-06-11 19:01:15.127611|INFO    |ServerLibPriv |   |failed to download revocation list - count: 43
+2022-06-11 21:28:33.145906|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-06-11 22:01:15.306809|INFO    |ServerLibPriv |   |failed to download revocation list - count: 44
+2022-06-12 01:01:15.470655|INFO    |ServerLibPriv |   |failed to download revocation list - count: 45
+2022-06-12 04:01:15.642735|INFO    |ServerLibPriv |   |failed to download revocation list - count: 46
+2022-06-12 07:01:15.821591|INFO    |ServerLibPriv |   |failed to download revocation list - count: 47
+2022-06-12 10:01:16.001300|INFO    |ServerLibPriv |   |failed to download revocation list - count: 48
+2022-06-12 13:01:16.183383|INFO    |ServerLibPriv |   |failed to download revocation list - count: 49
+2022-06-12 16:01:16.367523|INFO    |ServerLibPriv |   |failed to download revocation list - count: 50
+2022-06-12 19:01:16.509095|INFO    |ServerLibPriv |   |failed to download revocation list - count: 51
+2022-06-12 21:28:33.362425|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-06-12 22:01:16.687487|INFO    |ServerLibPriv |   |failed to download revocation list - count: 52
+2022-06-13 01:01:16.861661|INFO    |ServerLibPriv |   |failed to download revocation list - count: 53
+2022-06-13 04:01:17.027534|INFO    |ServerLibPriv |   |failed to download revocation list - count: 54
+2022-06-13 07:01:17.201853|INFO    |ServerLibPriv |   |failed to download revocation list - count: 55
+2022-06-13 10:01:17.348891|INFO    |ServerLibPriv |   |failed to download revocation list - count: 56
+2022-06-13 13:01:17.530836|INFO    |ServerLibPriv |   |failed to download revocation list - count: 57
+2022-06-13 16:01:17.679431|INFO    |ServerLibPriv |   |failed to download revocation list - count: 58
+2022-06-13 19:01:17.856043|INFO    |ServerLibPriv |   |failed to download revocation list - count: 59
+2022-06-13 21:28:33.582921|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-06-13 22:01:18.034261|INFO    |ServerLibPriv |   |failed to download revocation list - count: 60
+2022-06-14 01:01:18.197981|INFO    |ServerLibPriv |   |failed to download revocation list - count: 61
+2022-06-14 04:01:18.373006|INFO    |ServerLibPriv |   |failed to download revocation list - count: 62
+2022-06-14 07:01:18.553563|INFO    |ServerLibPriv |   |failed to download revocation list - count: 63
+2022-06-14 10:01:18.711290|INFO    |ServerLibPriv |   |failed to download revocation list - count: 64
+2022-06-14 13:01:18.886281|INFO    |ServerLibPriv |   |failed to download revocation list - count: 65
+2022-06-14 16:01:19.055147|INFO    |ServerLibPriv |   |failed to download revocation list - count: 66
+2022-06-14 19:01:19.259535|INFO    |ServerLibPriv |   |failed to download revocation list - count: 67
+2022-06-14 21:28:33.790531|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-06-14 22:01:19.441797|INFO    |ServerLibPriv |   |failed to download revocation list - count: 68
+2022-06-15 01:01:19.614418|INFO    |ServerLibPriv |   |failed to download revocation list - count: 69
+2022-06-15 04:01:19.790439|INFO    |ServerLibPriv |   |failed to download revocation list - count: 70
+2022-06-15 07:01:19.950447|INFO    |ServerLibPriv |   |failed to download revocation list - count: 71
+2022-06-15 10:01:20.130949|INFO    |ServerLibPriv |   |failed to download revocation list - count: 72
+2022-06-15 13:01:20.308409|INFO    |ServerLibPriv |   |failed to download revocation list - count: 73
+2022-06-15 16:01:20.472668|INFO    |ServerLibPriv |   |failed to download revocation list - count: 74
+2022-06-15 19:01:20.651843|INFO    |ServerLibPriv |   |failed to download revocation list - count: 75
+2022-06-15 21:28:34.004724|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-06-15 22:01:20.835482|INFO    |ServerLibPriv |   |failed to download revocation list - count: 76
+2022-06-16 01:01:21.012789|INFO    |ServerLibPriv |   |failed to download revocation list - count: 77
+2022-06-16 04:01:21.192964|INFO    |ServerLibPriv |   |failed to download revocation list - count: 78
+2022-06-16 07:01:21.375811|INFO    |ServerLibPriv |   |failed to download revocation list - count: 79
+2022-06-16 10:01:21.551182|INFO    |ServerLibPriv |   |failed to download revocation list - count: 80
+2022-06-16 13:01:21.729935|INFO    |ServerLibPriv |   |failed to download revocation list - count: 81
+2022-06-16 16:01:21.924705|INFO    |ServerLibPriv |   |failed to download revocation list - count: 82
+2022-06-16 19:01:22.100728|INFO    |ServerLibPriv |   |failed to download revocation list - count: 83
+2022-06-16 21:28:34.222212|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-06-16 22:01:22.282707|INFO    |ServerLibPriv |   |failed to download revocation list - count: 84
+2022-06-17 01:01:22.438965|INFO    |ServerLibPriv |   |failed to download revocation list - count: 85
+2022-06-17 04:01:22.619489|INFO    |ServerLibPriv |   |failed to download revocation list - count: 86
+2022-06-17 07:01:22.800550|INFO    |ServerLibPriv |   |failed to download revocation list - count: 87
+2022-06-17 10:01:22.953675|INFO    |ServerLibPriv |   |failed to download revocation list - count: 88
+2022-06-17 13:01:23.134545|INFO    |ServerLibPriv |   |failed to download revocation list - count: 89
+2022-06-17 16:01:23.315137|INFO    |ServerLibPriv |   |failed to download revocation list - count: 90

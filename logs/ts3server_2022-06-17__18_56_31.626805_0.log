@@ -1,0 +1,350 @@
+2022-06-17 18:56:31.626833|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.13.6 (2021-06-09 10:22:37)
+2022-06-17 18:56:31.626961|INFO    |ServerLibPriv |   |SystemInformation: Linux 5.4.0-120-generic #136-Ubuntu SMP Fri Jun 10 13:40:48 UTC 2022 x86_64 Binary: 64bit
+2022-06-17 18:56:31.627002|INFO    |ServerLibPriv |   |Using hardware aes
+2022-06-17 18:56:31.629901|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2022-06-17 18:56:31.629981|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2022-06-17 18:56:31.632767|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2022-06-17 18:56:31.777604|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2022-06-17 18:56:31.805526|INFO    |Accounting    |   |Licensing Information
+2022-06-17 18:56:31.805580|INFO    |Accounting    |   |licensed to       : Anonymous
+2022-06-17 18:56:31.805605|INFO    |Accounting    |   |type              : No License
+2022-06-17 18:56:31.805632|INFO    |Accounting    |   |starting date     : Thu Oct  1 00:00:00 2020
+2022-06-17 18:56:31.805680|INFO    |Accounting    |   |ending date       : Tue Nov  1 00:00:00 2022
+2022-06-17 18:56:31.805717|INFO    |Accounting    |   |max virtualservers: 1
+2022-06-17 18:56:31.805739|INFO    |Accounting    |   |max slots         : 32
+2022-06-17 18:56:34.838082|INFO    |              |   |Puzzle precompute time: 2968
+2022-06-17 18:56:34.840955|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2022-06-17 18:56:34.876808|INFO    |Query         |   |Using a query thread pool size of 2
+2022-06-17 18:56:34.968154|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2022-06-17 18:56:34.968625|INFO    |CIDRManager   |   |updated query_ip_allowlist ips: 127.0.0.1/32, ::1/128, 
+2022-06-17 18:56:34.973629|INFO    |ServerLibPriv |   |failed to download revocation list - count: 1
+2022-06-17 21:28:35.317909|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-06-17 21:56:35.142288|INFO    |ServerLibPriv |   |failed to download revocation list - count: 2
+2022-06-18 00:56:35.314788|INFO    |ServerLibPriv |   |failed to download revocation list - count: 3
+2022-06-18 03:56:35.491186|INFO    |ServerLibPriv |   |failed to download revocation list - count: 4
+2022-06-18 06:56:35.667520|INFO    |ServerLibPriv |   |failed to download revocation list - count: 5
+2022-06-18 09:56:35.848815|INFO    |ServerLibPriv |   |failed to download revocation list - count: 6
+2022-06-18 12:56:36.024160|INFO    |ServerLibPriv |   |failed to download revocation list - count: 7
+2022-06-18 15:56:36.192611|INFO    |ServerLibPriv |   |failed to download revocation list - count: 8
+2022-06-18 18:56:36.360427|INFO    |ServerLibPriv |   |failed to download revocation list - count: 9
+2022-06-18 21:28:35.475137|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-06-18 21:56:36.537393|INFO    |ServerLibPriv |   |failed to download revocation list - count: 10
+2022-06-19 00:56:36.711311|INFO    |ServerLibPriv |   |failed to download revocation list - count: 11
+2022-06-19 03:56:36.874712|INFO    |ServerLibPriv |   |failed to download revocation list - count: 12
+2022-06-19 06:56:37.052161|INFO    |ServerLibPriv |   |failed to download revocation list - count: 13
+2022-06-19 09:56:37.232841|INFO    |ServerLibPriv |   |failed to download revocation list - count: 14
+2022-06-19 12:56:37.406175|INFO    |ServerLibPriv |   |failed to download revocation list - count: 15
+2022-06-19 15:56:37.576361|INFO    |ServerLibPriv |   |failed to download revocation list - count: 16
+2022-06-19 18:56:37.756214|INFO    |ServerLibPriv |   |failed to download revocation list - count: 17
+2022-06-19 21:28:35.694774|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-06-19 21:56:37.911628|INFO    |ServerLibPriv |   |failed to download revocation list - count: 18
+2022-06-20 00:56:38.081487|INFO    |ServerLibPriv |   |failed to download revocation list - count: 19
+2022-06-20 03:56:38.262247|INFO    |ServerLibPriv |   |failed to download revocation list - count: 20
+2022-06-20 06:56:38.434506|INFO    |ServerLibPriv |   |failed to download revocation list - count: 21
+2022-06-20 09:56:38.629405|INFO    |ServerLibPriv |   |failed to download revocation list - count: 22
+2022-06-20 12:56:38.816438|INFO    |ServerLibPriv |   |failed to download revocation list - count: 23
+2022-06-20 15:56:38.996725|INFO    |ServerLibPriv |   |failed to download revocation list - count: 24
+2022-06-20 18:56:39.183451|INFO    |ServerLibPriv |   |failed to download revocation list - count: 25
+2022-06-20 21:28:35.917425|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-06-20 21:56:39.338441|INFO    |ServerLibPriv |   |failed to download revocation list - count: 26
+2022-06-21 00:56:39.535564|INFO    |ServerLibPriv |   |failed to download revocation list - count: 27
+2022-06-21 03:56:39.684249|INFO    |ServerLibPriv |   |failed to download revocation list - count: 28
+2022-06-21 06:56:39.864728|INFO    |ServerLibPriv |   |failed to download revocation list - count: 29
+2022-06-21 09:56:40.019222|INFO    |ServerLibPriv |   |failed to download revocation list - count: 30
+2022-06-21 12:56:40.206192|INFO    |ServerLibPriv |   |failed to download revocation list - count: 31
+2022-06-21 15:56:40.390633|INFO    |ServerLibPriv |   |failed to download revocation list - count: 32
+2022-06-21 18:56:40.571747|INFO    |ServerLibPriv |   |failed to download revocation list - count: 33
+2022-06-21 21:28:36.147892|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-06-21 21:56:40.749904|INFO    |ServerLibPriv |   |failed to download revocation list - count: 34
+2022-06-22 00:56:40.913878|INFO    |ServerLibPriv |   |failed to download revocation list - count: 35
+2022-06-22 03:56:41.055005|INFO    |ServerLibPriv |   |failed to download revocation list - count: 36
+2022-06-22 06:56:41.229680|INFO    |ServerLibPriv |   |failed to download revocation list - count: 37
+2022-06-22 09:56:41.406191|INFO    |ServerLibPriv |   |failed to download revocation list - count: 38
+2022-06-22 12:56:41.604847|INFO    |ServerLibPriv |   |failed to download revocation list - count: 39
+2022-06-22 15:56:41.793319|INFO    |ServerLibPriv |   |failed to download revocation list - count: 40
+2022-06-22 18:56:41.975231|INFO    |ServerLibPriv |   |failed to download revocation list - count: 41
+2022-06-22 21:28:36.336229|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-06-22 21:56:42.137698|INFO    |ServerLibPriv |   |failed to download revocation list - count: 42
+2022-06-23 00:56:42.317518|INFO    |ServerLibPriv |   |failed to download revocation list - count: 43
+2022-06-23 03:56:42.492284|INFO    |ServerLibPriv |   |failed to download revocation list - count: 44
+2022-06-23 06:56:42.655890|INFO    |ServerLibPriv |   |failed to download revocation list - count: 45
+2022-06-23 09:56:42.831855|INFO    |ServerLibPriv |   |failed to download revocation list - count: 46
+2022-06-23 12:56:43.001568|INFO    |ServerLibPriv |   |failed to download revocation list - count: 47
+2022-06-23 15:56:43.179824|INFO    |ServerLibPriv |   |failed to download revocation list - count: 48
+2022-06-23 18:56:43.369762|INFO    |ServerLibPriv |   |failed to download revocation list - count: 49
+2022-06-23 21:28:36.561011|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-06-23 21:56:43.539667|INFO    |ServerLibPriv |   |failed to download revocation list - count: 50
+2022-06-24 00:56:43.696109|INFO    |ServerLibPriv |   |failed to download revocation list - count: 51
+2022-06-24 03:56:43.873679|INFO    |ServerLibPriv |   |failed to download revocation list - count: 52
+2022-06-24 06:56:44.041728|INFO    |ServerLibPriv |   |failed to download revocation list - count: 53
+2022-06-24 09:56:44.221051|INFO    |ServerLibPriv |   |failed to download revocation list - count: 54
+2022-06-24 12:56:44.399509|INFO    |ServerLibPriv |   |failed to download revocation list - count: 55
+2022-06-24 15:56:44.570275|INFO    |ServerLibPriv |   |failed to download revocation list - count: 56
+2022-06-24 18:56:44.743440|INFO    |ServerLibPriv |   |failed to download revocation list - count: 57
+2022-06-24 21:28:36.846519|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-06-24 21:56:44.889175|INFO    |ServerLibPriv |   |failed to download revocation list - count: 58
+2022-06-25 00:56:45.057718|INFO    |ServerLibPriv |   |failed to download revocation list - count: 59
+2022-06-25 03:56:45.235929|INFO    |ServerLibPriv |   |failed to download revocation list - count: 60
+2022-06-25 06:56:45.401232|INFO    |ServerLibPriv |   |failed to download revocation list - count: 61
+2022-06-25 09:56:45.575796|INFO    |ServerLibPriv |   |failed to download revocation list - count: 62
+2022-06-25 12:56:45.727416|INFO    |ServerLibPriv |   |failed to download revocation list - count: 63
+2022-06-25 15:56:45.894381|INFO    |ServerLibPriv |   |failed to download revocation list - count: 64
+2022-06-25 18:56:46.067297|INFO    |ServerLibPriv |   |failed to download revocation list - count: 65
+2022-06-25 21:28:36.972462|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-06-25 21:56:46.232126|INFO    |ServerLibPriv |   |failed to download revocation list - count: 66
+2022-06-26 00:56:46.412730|INFO    |ServerLibPriv |   |failed to download revocation list - count: 67
+2022-06-26 03:56:46.580980|INFO    |ServerLibPriv |   |failed to download revocation list - count: 68
+2022-06-26 06:56:46.765503|INFO    |ServerLibPriv |   |failed to download revocation list - count: 69
+2022-06-26 09:56:46.929140|INFO    |ServerLibPriv |   |failed to download revocation list - count: 70
+2022-06-26 12:56:47.108984|INFO    |ServerLibPriv |   |failed to download revocation list - count: 71
+2022-06-26 15:56:47.284102|INFO    |ServerLibPriv |   |failed to download revocation list - count: 72
+2022-06-26 18:56:47.430093|INFO    |ServerLibPriv |   |failed to download revocation list - count: 73
+2022-06-26 21:28:37.157341|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-06-26 21:56:47.609181|INFO    |ServerLibPriv |   |failed to download revocation list - count: 74
+2022-06-27 00:56:47.787155|INFO    |ServerLibPriv |   |failed to download revocation list - count: 75
+2022-06-27 03:56:47.947791|INFO    |ServerLibPriv |   |failed to download revocation list - count: 76
+2022-06-27 06:56:48.124482|INFO    |ServerLibPriv |   |failed to download revocation list - count: 77
+2022-06-27 09:56:48.303462|INFO    |ServerLibPriv |   |failed to download revocation list - count: 78
+2022-06-27 12:56:48.480168|INFO    |ServerLibPriv |   |failed to download revocation list - count: 79
+2022-06-27 15:56:48.659482|INFO    |ServerLibPriv |   |failed to download revocation list - count: 80
+2022-06-27 18:56:48.840234|INFO    |ServerLibPriv |   |failed to download revocation list - count: 81
+2022-06-27 21:28:37.361627|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-06-27 21:56:48.981260|INFO    |ServerLibPriv |   |failed to download revocation list - count: 82
+2022-06-28 00:56:49.143275|INFO    |ServerLibPriv |   |failed to download revocation list - count: 83
+2022-06-28 03:56:49.315275|INFO    |ServerLibPriv |   |failed to download revocation list - count: 84
+2022-06-28 06:56:49.509416|INFO    |ServerLibPriv |   |failed to download revocation list - count: 85
+2022-06-28 09:56:49.683782|INFO    |ServerLibPriv |   |failed to download revocation list - count: 86
+2022-06-28 12:56:49.850361|INFO    |ServerLibPriv |   |failed to download revocation list - count: 87
+2022-06-28 15:56:50.020584|INFO    |ServerLibPriv |   |failed to download revocation list - count: 88
+2022-06-28 18:56:50.199294|INFO    |ServerLibPriv |   |failed to download revocation list - count: 89
+2022-06-28 21:28:37.557622|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-06-28 21:56:50.370691|INFO    |ServerLibPriv |   |failed to download revocation list - count: 90
+2022-06-29 00:56:50.549913|INFO    |ServerLibPriv |   |failed to download revocation list - count: 91
+2022-06-29 03:56:50.710393|INFO    |ServerLibPriv |   |failed to download revocation list - count: 92
+2022-06-29 06:56:50.903258|INFO    |ServerLibPriv |   |failed to download revocation list - count: 93
+2022-06-29 09:56:51.072965|INFO    |ServerLibPriv |   |failed to download revocation list - count: 94
+2022-06-29 12:56:51.265737|INFO    |ServerLibPriv |   |failed to download revocation list - count: 95
+2022-06-29 15:56:51.431534|INFO    |ServerLibPriv |   |failed to download revocation list - count: 96
+2022-06-29 18:56:51.598583|INFO    |ServerLibPriv |   |failed to download revocation list - count: 97
+2022-06-29 21:28:37.778663|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-06-29 21:56:51.762409|INFO    |ServerLibPriv |   |failed to download revocation list - count: 98
+2022-06-30 00:56:51.933254|INFO    |ServerLibPriv |   |failed to download revocation list - count: 99
+2022-06-30 03:56:52.085219|INFO    |ServerLibPriv |   |failed to download revocation list - count: 100
+2022-06-30 06:56:52.303466|INFO    |ServerLibPriv |   |failed to download revocation list - count: 101
+2022-06-30 09:56:52.476308|INFO    |ServerLibPriv |   |failed to download revocation list - count: 102
+2022-06-30 12:56:52.645714|INFO    |ServerLibPriv |   |failed to download revocation list - count: 103
+2022-06-30 15:56:52.827091|INFO    |ServerLibPriv |   |failed to download revocation list - count: 104
+2022-06-30 18:56:53.000771|INFO    |ServerLibPriv |   |failed to download revocation list - count: 105
+2022-06-30 21:28:38.010240|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-06-30 21:56:53.154167|INFO    |ServerLibPriv |   |failed to download revocation list - count: 106
+2022-07-01 00:02:31.762221|INFO    |VirtualSvrMgr |   |executing monthly interval
+2022-07-01 00:02:31.766654|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2022-07-01 00:56:53.317251|INFO    |ServerLibPriv |   |failed to download revocation list - count: 107
+2022-07-01 03:56:53.507012|INFO    |ServerLibPriv |   |failed to download revocation list - count: 108
+2022-07-01 06:56:53.688477|INFO    |ServerLibPriv |   |failed to download revocation list - count: 109
+2022-07-01 09:56:53.866668|INFO    |ServerLibPriv |   |failed to download revocation list - count: 110
+2022-07-01 12:56:54.030441|INFO    |ServerLibPriv |   |failed to download revocation list - count: 111
+2022-07-01 15:56:54.195352|INFO    |ServerLibPriv |   |failed to download revocation list - count: 112
+2022-07-01 18:56:54.375263|INFO    |ServerLibPriv |   |failed to download revocation list - count: 113
+2022-07-01 21:28:38.195787|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-01 21:56:54.544991|INFO    |ServerLibPriv |   |failed to download revocation list - count: 114
+2022-07-02 00:56:54.701559|INFO    |ServerLibPriv |   |failed to download revocation list - count: 115
+2022-07-02 03:56:54.879062|INFO    |ServerLibPriv |   |failed to download revocation list - count: 116
+2022-07-02 06:56:55.047637|INFO    |ServerLibPriv |   |failed to download revocation list - count: 117
+2022-07-02 09:56:55.226192|INFO    |ServerLibPriv |   |failed to download revocation list - count: 118
+2022-07-02 12:56:55.399464|INFO    |ServerLibPriv |   |failed to download revocation list - count: 119
+2022-07-02 15:56:55.577401|INFO    |ServerLibPriv |   |failed to download revocation list - count: 120
+2022-07-02 18:56:55.740183|INFO    |ServerLibPriv |   |failed to download revocation list - count: 121
+2022-07-02 21:28:38.404318|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-02 21:56:55.917675|INFO    |ServerLibPriv |   |failed to download revocation list - count: 122
+2022-07-03 00:56:56.069883|INFO    |ServerLibPriv |   |failed to download revocation list - count: 123
+2022-07-03 03:56:56.246777|INFO    |ServerLibPriv |   |failed to download revocation list - count: 124
+2022-07-03 06:56:56.420449|INFO    |ServerLibPriv |   |failed to download revocation list - count: 125
+2022-07-03 09:56:56.603553|INFO    |ServerLibPriv |   |failed to download revocation list - count: 126
+2022-07-03 12:56:56.784970|INFO    |ServerLibPriv |   |failed to download revocation list - count: 127
+2022-07-03 15:56:56.964671|INFO    |ServerLibPriv |   |failed to download revocation list - count: 128
+2022-07-03 18:56:57.144368|INFO    |ServerLibPriv |   |failed to download revocation list - count: 129
+2022-07-03 21:28:38.602463|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-03 21:56:57.308872|INFO    |ServerLibPriv |   |failed to download revocation list - count: 130
+2022-07-04 00:56:57.488974|INFO    |ServerLibPriv |   |failed to download revocation list - count: 131
+2022-07-04 03:56:57.636365|INFO    |ServerLibPriv |   |failed to download revocation list - count: 132
+2022-07-04 06:56:57.811391|INFO    |ServerLibPriv |   |failed to download revocation list - count: 133
+2022-07-04 09:56:57.984081|INFO    |ServerLibPriv |   |failed to download revocation list - count: 134
+2022-07-04 12:56:58.130838|INFO    |ServerLibPriv |   |failed to download revocation list - count: 135
+2022-07-04 15:56:58.312154|INFO    |ServerLibPriv |   |failed to download revocation list - count: 136
+2022-07-04 18:56:58.488823|INFO    |ServerLibPriv |   |failed to download revocation list - count: 137
+2022-07-04 21:28:38.804570|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-04 21:56:58.671226|INFO    |ServerLibPriv |   |failed to download revocation list - count: 138
+2022-07-05 00:56:58.847394|INFO    |ServerLibPriv |   |failed to download revocation list - count: 139
+2022-07-05 03:56:59.024388|INFO    |ServerLibPriv |   |failed to download revocation list - count: 140
+2022-07-05 06:56:59.197452|INFO    |ServerLibPriv |   |failed to download revocation list - count: 141
+2022-07-05 09:56:59.376681|INFO    |ServerLibPriv |   |failed to download revocation list - count: 142
+2022-07-05 12:56:59.542026|INFO    |ServerLibPriv |   |failed to download revocation list - count: 143
+2022-07-05 15:56:59.698819|INFO    |ServerLibPriv |   |failed to download revocation list - count: 144
+2022-07-05 18:56:59.879701|INFO    |ServerLibPriv |   |failed to download revocation list - count: 145
+2022-07-05 21:28:39.026651|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-05 21:57:00.052955|INFO    |ServerLibPriv |   |failed to download revocation list - count: 146
+2022-07-06 00:57:00.223785|INFO    |ServerLibPriv |   |failed to download revocation list - count: 147
+2022-07-06 03:57:00.402958|INFO    |ServerLibPriv |   |failed to download revocation list - count: 148
+2022-07-06 06:57:00.584784|INFO    |ServerLibPriv |   |failed to download revocation list - count: 149
+2022-07-06 09:57:00.773931|INFO    |ServerLibPriv |   |failed to download revocation list - count: 150
+2022-07-06 12:57:00.909750|INFO    |ServerLibPriv |   |failed to download revocation list - count: 151
+2022-07-06 15:57:01.078515|INFO    |ServerLibPriv |   |failed to download revocation list - count: 152
+2022-07-06 18:57:01.281787|INFO    |ServerLibPriv |   |failed to download revocation list - count: 153
+2022-07-06 21:28:39.237228|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-06 21:57:01.436303|INFO    |ServerLibPriv |   |failed to download revocation list - count: 154
+2022-07-07 00:57:01.596885|INFO    |ServerLibPriv |   |failed to download revocation list - count: 155
+2022-07-07 03:57:01.795158|INFO    |ServerLibPriv |   |failed to download revocation list - count: 156
+2022-07-07 06:57:01.978660|INFO    |ServerLibPriv |   |failed to download revocation list - count: 157
+2022-07-07 09:57:02.164002|INFO    |ServerLibPriv |   |failed to download revocation list - count: 158
+2022-07-07 12:57:02.345845|INFO    |ServerLibPriv |   |failed to download revocation list - count: 159
+2022-07-07 15:57:02.501705|INFO    |ServerLibPriv |   |failed to download revocation list - count: 160
+2022-07-07 18:57:02.683119|INFO    |ServerLibPriv |   |failed to download revocation list - count: 161
+2022-07-07 21:28:39.407345|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-07 21:57:02.866279|INFO    |ServerLibPriv |   |failed to download revocation list - count: 162
+2022-07-08 00:57:03.050674|INFO    |ServerLibPriv |   |failed to download revocation list - count: 163
+2022-07-08 03:57:03.225717|INFO    |ServerLibPriv |   |failed to download revocation list - count: 164
+2022-07-08 06:57:03.410496|INFO    |ServerLibPriv |   |failed to download revocation list - count: 165
+2022-07-08 09:57:03.602290|INFO    |ServerLibPriv |   |failed to download revocation list - count: 166
+2022-07-08 12:57:03.780830|INFO    |ServerLibPriv |   |failed to download revocation list - count: 167
+2022-07-08 15:57:03.954049|INFO    |ServerLibPriv |   |failed to download revocation list - count: 168
+2022-07-08 18:57:04.142574|INFO    |ServerLibPriv |   |failed to download revocation list - count: 169
+2022-07-08 21:28:39.622059|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-08 21:57:04.321138|INFO    |ServerLibPriv |   |failed to download revocation list - count: 170
+2022-07-09 00:57:04.496935|INFO    |ServerLibPriv |   |failed to download revocation list - count: 171
+2022-07-09 03:57:04.675478|INFO    |ServerLibPriv |   |failed to download revocation list - count: 172
+2022-07-09 06:57:04.840053|INFO    |ServerLibPriv |   |failed to download revocation list - count: 173
+2022-07-09 09:57:05.019126|INFO    |ServerLibPriv |   |failed to download revocation list - count: 174
+2022-07-09 12:57:05.202021|INFO    |ServerLibPriv |   |failed to download revocation list - count: 175
+2022-07-09 15:57:05.384516|INFO    |ServerLibPriv |   |failed to download revocation list - count: 176
+2022-07-09 18:57:05.565632|INFO    |ServerLibPriv |   |failed to download revocation list - count: 177
+2022-07-09 21:28:39.816365|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-09 21:57:05.743615|INFO    |ServerLibPriv |   |failed to download revocation list - count: 178
+2022-07-10 00:57:05.919427|INFO    |ServerLibPriv |   |failed to download revocation list - count: 179
+2022-07-10 03:57:06.098280|INFO    |ServerLibPriv |   |failed to download revocation list - count: 180
+2022-07-10 06:57:06.274372|INFO    |ServerLibPriv |   |failed to download revocation list - count: 181
+2022-07-10 09:57:06.465228|INFO    |ServerLibPriv |   |failed to download revocation list - count: 182
+2022-07-10 12:57:06.639040|INFO    |ServerLibPriv |   |failed to download revocation list - count: 183
+2022-07-10 15:57:06.802764|INFO    |ServerLibPriv |   |failed to download revocation list - count: 184
+2022-07-10 18:57:06.971949|INFO    |ServerLibPriv |   |failed to download revocation list - count: 185
+2022-07-10 21:28:40.009692|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-10 21:57:07.162909|INFO    |ServerLibPriv |   |failed to download revocation list - count: 186
+2022-07-11 00:57:07.336475|INFO    |ServerLibPriv |   |failed to download revocation list - count: 187
+2022-07-11 03:57:07.513582|INFO    |ServerLibPriv |   |failed to download revocation list - count: 188
+2022-07-11 06:57:07.689470|INFO    |ServerLibPriv |   |failed to download revocation list - count: 189
+2022-07-11 21:28:40.203837|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-12 21:28:40.409799|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-13 21:28:40.593080|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-14 21:28:40.953038|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-15 21:28:41.137058|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-16 21:28:41.375170|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-17 21:28:41.640384|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-18 21:28:41.806758|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-19 21:28:42.012969|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-20 21:28:42.202572|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-21 21:28:42.415964|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-22 21:28:42.639117|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-23 21:28:42.827952|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-24 21:28:42.993003|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-25 21:28:43.158149|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-26 21:28:43.422105|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-27 21:28:43.551909|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-28 21:28:43.720785|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-29 21:28:44.004129|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-30 21:28:44.094697|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-07-31 21:28:44.291747|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-01 00:02:31.762832|INFO    |VirtualSvrMgr |   |executing monthly interval
+2022-08-01 00:02:31.764198|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2022-08-01 21:28:44.497182|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-02 21:28:44.660477|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-03 21:28:44.837324|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-04 21:28:45.059941|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-05 21:28:45.271705|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-06 21:28:45.513884|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-07 21:28:45.690298|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-08 21:28:45.878087|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-09 21:28:46.077462|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-10 21:28:46.257299|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-11 21:28:46.521664|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-12 21:28:46.648364|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-13 21:28:46.844680|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-14 21:28:47.041312|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-15 21:28:47.227855|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-16 21:28:47.420462|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-17 21:28:47.634272|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-18 21:28:47.825235|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-19 21:28:48.027898|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-20 21:28:48.250579|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-21 21:28:48.517569|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-22 21:28:48.673466|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-23 21:28:48.879388|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-24 21:28:49.072403|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-25 21:28:49.260454|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-26 21:28:49.446740|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-27 21:28:49.709627|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-28 21:28:49.824959|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-29 21:28:50.007604|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-30 21:28:50.201396|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-08-31 21:28:50.392510|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-01 00:02:31.763121|INFO    |VirtualSvrMgr |   |executing monthly interval
+2022-09-01 00:02:31.765157|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2022-09-01 21:28:50.561390|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-02 21:28:50.765257|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-03 21:28:50.968350|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-04 21:28:51.150043|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-05 21:28:51.344737|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-06 21:28:51.537254|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-07 21:28:51.735342|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-08 21:28:51.939136|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-09 21:28:52.107276|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-10 21:28:52.313221|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-11 21:28:52.516167|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-12 21:28:52.713860|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-13 21:28:52.914316|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-14 21:28:53.088207|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-15 21:28:53.281611|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-16 21:28:53.511955|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-17 21:28:53.673962|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-18 21:28:53.875478|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-19 21:28:54.074885|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-20 21:28:54.272525|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-21 21:28:54.538896|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-22 21:28:54.652319|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-23 21:28:54.834930|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-24 21:28:55.025964|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-25 21:28:55.191965|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-26 21:28:55.373813|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-27 21:28:55.561049|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-28 21:28:55.800842|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-29 21:28:55.948812|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-09-30 21:28:56.144978|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-01 00:02:31.762837|INFO    |VirtualSvrMgr |   |executing monthly interval
+2022-10-01 00:02:31.764903|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2022-10-01 21:28:56.309147|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-02 21:28:56.517018|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-03 21:28:56.695844|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-04 21:28:56.893287|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-05 21:28:57.073281|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-06 21:28:57.235528|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-07 21:28:57.417767|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-08 21:28:57.621521|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-09 21:28:57.797173|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-10 21:28:57.981215|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-11 21:28:58.211699|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-12 21:28:58.325665|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-13 21:28:58.530364|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-14 21:28:58.719130|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-15 21:28:58.898835|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-16 21:28:59.100666|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-17 21:28:59.260398|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-18 21:28:59.456761|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-19 21:28:59.651883|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-20 21:28:59.881530|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-21 21:28:59.959037|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-22 21:29:00.147850|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-23 21:29:00.347145|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-24 21:29:00.535342|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-25 21:29:00.724487|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-26 21:29:00.964477|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-27 21:29:01.109576|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-28 21:29:01.332450|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated

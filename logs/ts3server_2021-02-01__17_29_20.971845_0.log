@@ -1,0 +1,25 @@
+2021-02-01 17:29:20.971872|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.13.3 (2020-12-16 14:17:05)
+2021-02-01 17:29:20.971994|INFO    |ServerLibPriv |   |SystemInformation: Linux 5.4.0-65-generic #73-Ubuntu SMP Mon Jan 18 17:25:17 UTC 2021 x86_64 Binary: 64bit
+2021-02-01 17:29:20.972031|INFO    |ServerLibPriv |   |Using hardware aes
+2021-02-01 17:29:20.975039|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2021-02-01 17:29:20.975105|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2021-02-01 17:29:20.983688|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2021-02-01 17:29:21.184984|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2021-02-01 17:29:21.217010|INFO    |Accounting    |   |Licensing Information
+2021-02-01 17:29:21.217085|INFO    |Accounting    |   |licensed to       : Anonymous
+2021-02-01 17:29:21.217111|INFO    |Accounting    |   |type              : No License
+2021-02-01 17:29:21.217138|INFO    |Accounting    |   |starting date     : Thu Oct  1 00:00:00 2020
+2021-02-01 17:29:21.217162|INFO    |Accounting    |   |ending date       : Tue Nov  1 00:00:00 2022
+2021-02-01 17:29:21.217183|INFO    |Accounting    |   |max virtualservers: 1
+2021-02-01 17:29:21.217203|INFO    |Accounting    |   |max slots         : 32
+2021-02-01 17:29:24.893731|INFO    |              |   |Puzzle precompute time: 3611
+2021-02-01 17:29:24.897231|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2021-02-01 17:29:24.933239|INFO    |Query         |   |Using a query thread pool size of 2
+2021-02-01 17:29:25.087482|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2021-02-01 17:29:25.087962|INFO    |CIDRManager   |   |updated query_ip_allowlist ips: 127.0.0.1/32, ::1/128, 
+2021-02-01 17:29:25.088161|WARNING |ServerMain    |   |Warning - name 'query_ip_whitelist' from file /var/run/ts3server/ts3server.ini is deprecated (but understood), please use the new name 'query_ip_allowlist' instead.
+2021-02-01 17:29:25.088333|WARNING |ServerMain    |   |Warning - name 'query_ip_blacklist' from file /var/run/ts3server/ts3server.ini is deprecated (but understood), please use the new name 'query_ip_denylist' instead.
+2021-02-02 11:44:48.584359|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-03 11:44:48.876282|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-04 11:44:49.087431|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-05 11:44:49.338872|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated

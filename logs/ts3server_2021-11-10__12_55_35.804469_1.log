@@ -1,0 +1,19 @@
+2021-11-10 12:55:39.870480|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2021-11-11 18:41:05.944927|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
+2021-11-12 16:12:44.182151|INFO    |PktHandler    |1  |Dropping client 14 because of ping timeout 19 0 0
+2021-11-12 16:30:09.624845|INFO    |PktHandler    |1  |Dropping client 16 because of ping timeout 19 0 0
+2021-11-13 21:01:33.146752|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2021-11-13 21:01:33.147682|INFO    |PktHandler    |1  |Dropping client 1 because of resend timeout
+2021-11-13 21:01:57.685069|INFO    |PktHandler    |1  |Cleaning up connection because of 12 resends of COMMAND packet
+2021-11-13 21:01:57.685658|INFO    |PktHandler    |1  |Dropping client 21 because of resend timeout
+2021-11-13 21:02:29.231761|INFO    |PktHandler    |1  |Dropping client 22 because of ping timeout 19 0 0
+2021-11-13 21:02:35.543499|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2021-11-13 21:02:35.543599|INFO    |PktHandler    |1  |Dropping client 24 because of resend timeout
+2021-11-13 21:03:55.356982|INFO    |PktHandler    |1  |Dropping client 11 because of ping timeout 19 0 0
+2021-11-13 21:04:09.779238|INFO    |PktHandler    |1  |Cleaning up connection because of 12 resends of COMMAND packet
+2021-11-13 21:04:09.779536|INFO    |PktHandler    |1  |Dropping client 25 because of resend timeout
+2021-11-14 21:14:37.134435|INFO    |PktHandler    |1  |Dropping client 32 because of ping timeout 19 0 0
+2021-11-14 21:57:48.737136|INFO    |PktHandler    |1  |Dropping client 33 because of ping timeout 19 0 0
+2021-11-15 02:42:40.412148|INFO    |PktHandler    |1  |Dropping client 27 because of ping timeout 19 0 0
+2021-11-16 02:48:17.783975|INFO    |PktHandler    |1  |Dropping client 36 because of ping timeout 19 0 0
+2021-11-16 09:35:42.475760|INFO    |PktHandler    |1  |Dropping client 37 because of ping timeout 19 0 0

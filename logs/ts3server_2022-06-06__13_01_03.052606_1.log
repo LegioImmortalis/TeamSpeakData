@@ -1,0 +1,33 @@
+2022-06-06 13:01:07.802246|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2022-06-07 12:34:11.983876|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
+2022-06-07 12:34:11.985135|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2022-06-07 17:08:14.181476|INFO    |PktHandler    |1  |Dropping client 13 because of ping timeout 19 0 0
+2022-06-09 20:27:59.350189|INFO    |PktHandler    |1  |Dropping client 11 because of ping timeout 19 0 0
+2022-06-09 20:29:52.488824|INFO    |PktHandler    |1  |Dropping client 27 because of ping timeout 19 0 0
+2022-06-10 11:00:19.802510|INFO    |PktHandler    |1  |Dropping client 28 because of ping timeout 19 0 0
+2022-06-11 01:31:53.427869|INFO    |PktHandler    |1  |Dropping client 33 because of ping timeout 19 0 0
+2022-06-11 09:21:45.299018|INFO    |PktHandler    |1  |Dropping client 42 because of ping timeout 19 0 0
+2022-06-11 20:01:34.756007|INFO    |VirtualServer |1  |client 'sugo_noti'(id:40) was added to servergroup 'Server Admin'(id:6) by client 'Globus'(id:20)
+2022-06-11 20:01:37.327739|INFO    |VirtualServer |1  |client 'sugo_noti'(id:40) was added to channelgroup 'Channel Admin'(id:5) by client 'Globus'(id:20) in channel 'Welcome'(id:1)
+2022-06-11 20:07:48.147603|INFO    |PktHandler    |1  |Dropping client 31 because of ping timeout 19 0 0
+2022-06-11 20:28:22.799693|INFO    |PktHandler    |1  |Dropping client 48 because of ping timeout 19 0 0
+2022-06-12 01:46:45.952581|INFO    |PktHandler    |1  |Dropping client 38 because of ping timeout 19 0 0
+2022-06-12 08:30:25.128819|INFO    |PktHandler    |1  |Dropping client 52 because of ping timeout 19 0 0
+2022-06-12 11:12:13.931263|INFO    |PktHandler    |1  |Dropping client 59 because of ping timeout 19 0 0
+2022-06-12 15:01:34.240394|INFO    |PktHandler    |1  |Dropping client 61 because of ping timeout 19 0 0
+2022-06-12 15:11:41.071649|INFO    |PktHandler    |1  |Dropping client 62 because of ping timeout 19 0 0
+2022-06-12 15:16:58.485994|INFO    |PktHandler    |1  |Dropping client 63 because of ping timeout 19 0 0
+2022-06-12 16:21:10.618973|INFO    |PktHandler    |1  |Dropping client 65 because of ping timeout 19 0 0
+2022-06-12 18:22:39.259150|INFO    |PktHandler    |1  |Dropping client 58 because of ping timeout 19 0 0
+2022-06-12 18:25:26.472510|INFO    |PktHandler    |1  |Dropping client 66 because of ping timeout 19 0 0
+2022-06-13 11:19:33.259237|INFO    |PktHandler    |1  |Dropping client 67 because of ping timeout 19 0 0
+2022-06-15 16:59:00.026433|INFO    |PktHandler    |1  |Dropping client 79 because of ping timeout 19 0 0
+2022-06-16 13:30:41.473531|INFO    |PktHandler    |1  |Dropping client 77 because of ping timeout 19 0 0
+2022-06-16 15:32:23.688552|INFO    |PktHandler    |1  |Dropping client 87 because of ping timeout 19 0 0
+2022-06-17 13:11:35.694212|INFO    |PktHandler    |1  |Dropping client 69 because of ping timeout 19 0 0
+2022-06-17 13:46:39.319577|INFO    |PktHandler    |1  |Dropping client 95 because of ping timeout 19 0 0
+2022-06-17 18:53:51.655705|INFO    |PktHandler    |1  |Dropping client 94 because of ping timeout 19 0 0
+2022-06-17 18:54:05.478257|INFO    |PktHandler    |1  |Cleaning up connection because of 4 resends of COMMAND packet
+2022-06-17 18:54:05.478538|INFO    |PktHandler    |1  |Dropping client 99 because of resend timeout
+2022-06-17 18:54:09.685333|INFO    |PktHandler    |1  |Dropping client 97 because of ping timeout 19 0 0
+2022-06-17 18:54:11.688835|INFO    |PktHandler    |1  |Dropping client 100 because of ping timeout 19 0 0

@@ -1,0 +1,77 @@
+2021-10-06 06:21:32.071149|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2021-10-06 16:56:33.603114|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2021-10-06 21:58:48.837272|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
+2021-10-10 12:12:33.809752|INFO    |PktHandler    |1  |Dropping client 26 because of ping timeout 19 0 0
+2021-10-10 12:12:33.811711|INFO    |PktHandler    |1  |Dropping client 21 because of ping timeout 19 0 0
+2021-10-10 16:44:23.079299|INFO    |PktHandler    |1  |Dropping client 20 because of ping timeout 19 0 0
+2021-10-11 16:08:01.684951|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
+2021-10-12 09:57:10.858110|INFO    |PktHandler    |1  |Dropping client 33 because of ping timeout 19 0 0
+2021-10-12 17:56:19.307728|INFO    |PktHandler    |1  |Dropping client 41 because of ping timeout 19 0 0
+2021-10-13 10:16:05.074147|INFO    |PktHandler    |1  |Dropping client 43 because of ping timeout 19 0 0
+2021-10-13 22:58:30.688724|INFO    |PktHandler    |1  |Dropping client 38 because of ping timeout 19 0 0
+2021-10-14 00:22:00.957335|INFO    |PktHandler    |1  |Dropping client 48 because of ping timeout 19 0 0
+2021-10-14 04:05:42.846918|INFO    |PktHandler    |1  |Dropping client 50 because of ping timeout 19 0 0
+2021-10-17 11:42:29.738721|INFO    |VirtualServer |1  |client 'Ombra'(id:32) was added to servergroup 'Server Admin'(id:6) by client 'krisx'(id:6)
+2021-10-21 09:43:48.512604|INFO    |PktHandler    |1  |Dropping client 86 because of ping timeout 19 0 0
+2021-10-21 11:44:04.064248|INFO    |PktHandler    |1  |Dropping client 90 because of ping timeout 19 0 0
+2021-10-21 13:13:16.138454|INFO    |PktHandler    |1  |Dropping client 91 because of ping timeout 19 0 0
+2021-10-21 13:13:16.139422|INFO    |PktHandler    |1  |Dropping client 89 because of ping timeout 19 0 0
+2021-10-21 13:13:16.140358|INFO    |PktHandler    |1  |Dropping client 59 because of ping timeout 19 0 0
+2021-10-21 13:31:20.510238|INFO    |PktHandler    |1  |Dropping client 94 because of ping timeout 19 0 0
+2021-10-21 13:31:20.510508|INFO    |PktHandler    |1  |Dropping client 93 because of ping timeout 19 0 0
+2021-10-21 13:31:20.510610|INFO    |PktHandler    |1  |Dropping client 92 because of ping timeout 19 0 0
+2021-10-21 13:43:40.450936|INFO    |PktHandler    |1  |Dropping client 97 because of ping timeout 19 0 0
+2021-10-21 13:43:40.451862|INFO    |PktHandler    |1  |Dropping client 96 because of ping timeout 19 0 0
+2021-10-21 13:43:40.452734|INFO    |PktHandler    |1  |Dropping client 95 because of ping timeout 19 0 0
+2021-10-24 09:37:43.655817|INFO    |PktHandler    |1  |Dropping client 115 because of ping timeout 19 0 0
+2021-10-27 04:26:58.486249|INFO    |PktHandler    |1  |Dropping client 121 because of ping timeout 19 0 0
+2021-10-28 02:11:26.790079|INFO    |PktHandler    |1  |Dropping client 135 because of ping timeout 19 0 0
+2021-10-28 08:37:37.856120|INFO    |PktHandler    |1  |Dropping client 137 because of ping timeout 19 0 0
+2021-10-28 08:39:55.048020|INFO    |PktHandler    |1  |Dropping client 138 because of ping timeout 19 0 0
+2021-10-28 11:50:15.532671|INFO    |PktHandler    |1  |Dropping client 141 because of ping timeout 19 0 0
+2021-10-28 13:28:54.861557|INFO    |PktHandler    |1  |Dropping client 136 because of ping timeout 19 0 0
+2021-10-28 19:46:59.504402|INFO    |PktHandler    |1  |Dropping client 140 because of ping timeout 19 0 0
+2021-10-29 01:43:59.617643|INFO    |PktHandler    |1  |Dropping client 144 because of ping timeout 19 0 0
+2021-10-29 18:05:59.532041|INFO    |PktHandler    |1  |Dropping client 150 because of ping timeout 19 0 0
+2021-10-30 02:00:59.210411|INFO    |PktHandler    |1  |Dropping client 148 because of ping timeout 19 0 0
+2021-10-30 12:16:55.902125|INFO    |PktHandler    |1  |Dropping client 154 because of ping timeout 19 0 0
+2021-10-30 14:17:42.878906|INFO    |PktHandler    |1  |Dropping client 155 because of ping timeout 19 0 0
+2021-10-30 14:37:07.501425|INFO    |PktHandler    |1  |Dropping client 158 because of ping timeout 19 0 0
+2021-10-30 15:52:56.809872|INFO    |PktHandler    |1  |Dropping client 147 because of ping timeout 19 0 0
+2021-10-30 16:04:16.746000|INFO    |PktHandler    |1  |Dropping client 159 because of ping timeout 19 0 0
+2021-10-30 16:46:32.265185|INFO    |PktHandler    |1  |Dropping client 161 because of ping timeout 19 0 0
+2021-11-01 13:38:59.881021|INFO    |PktHandler    |1  |Dropping client 171 because of ping timeout 19 0 0
+2021-11-01 13:47:18.593025|INFO    |PktHandler    |1  |Dropping client 173 because of ping timeout 19 0 0
+2021-11-01 14:00:52.801274|INFO    |PktHandler    |1  |Dropping client 174 because of ping timeout 19 0 0
+2021-11-01 14:13:41.950666|INFO    |PktHandler    |1  |Dropping client 176 because of ping timeout 19 0 0
+2021-11-01 14:20:59.577653|INFO    |PktHandler    |1  |Dropping client 177 because of ping timeout 19 0 0
+2021-11-01 15:19:28.726644|INFO    |PktHandler    |1  |Dropping client 178 because of ping timeout 19 0 0
+2021-11-01 15:58:19.142913|INFO    |PktHandler    |1  |Dropping client 179 because of ping timeout 19 0 0
+2021-11-02 07:58:10.682356|INFO    |PktHandler    |1  |Dropping client 181 because of ping timeout 19 0 0
+2021-11-02 10:57:31.427656|INFO    |PktHandler    |1  |Dropping client 182 because of ping timeout 19 0 0
+2021-11-03 02:37:47.635024|INFO    |PktHandler    |1  |Dropping client 170 because of ping timeout 19 0 0
+2021-11-03 02:37:47.635936|INFO    |PktHandler    |1  |Dropping client 169 because of ping timeout 19 0 0
+2021-11-04 14:06:00.581259|INFO    |PktHandler    |1  |Dropping client 188 because of ping timeout 19 0 0
+2021-11-04 18:29:50.176790|INFO    |PktHandler    |1  |Dropping client 195 because of ping timeout 19 0 0
+2021-11-04 18:49:08.885439|INFO    |PktHandler    |1  |Dropping client 199 because of ping timeout 19 0 0
+2021-11-05 16:29:03.650217|INFO    |PktHandler    |1  |Dropping client 203 because of ping timeout 19 0 0
+2021-11-06 10:07:44.832445|INFO    |PktHandler    |1  |Dropping client 205 because of ping timeout 19 0 0
+2021-11-06 14:00:47.629397|INFO    |PktHandler    |1  |Dropping client 208 because of ping timeout 19 0 0
+2021-11-06 14:00:47.630513|INFO    |PktHandler    |1  |Dropping client 207 because of ping timeout 19 0 0
+2021-11-06 14:00:47.631600|INFO    |PktHandler    |1  |Dropping client 193 because of ping timeout 19 0 0
+2021-11-06 14:00:47.632142|INFO    |PktHandler    |1  |Dropping client 192 because of ping timeout 19 0 0
+2021-11-06 14:01:08.865487|INFO    |PktHandler    |1  |Cleaning up connection because of 10 resends of COMMAND packet
+2021-11-06 14:01:08.865993|INFO    |PktHandler    |1  |Dropping client 206 because of resend timeout
+2021-11-06 14:01:48.023642|INFO    |PktHandler    |1  |Cleaning up connection because of 10 resends of COMMAND packet
+2021-11-06 14:01:48.027842|INFO    |PktHandler    |1  |Dropping client 209 because of resend timeout
+2021-11-06 14:03:02.338419|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2021-11-06 14:03:02.338913|INFO    |PktHandler    |1  |Dropping client 212 because of resend timeout
+2021-11-06 14:03:22.473145|INFO    |PktHandler    |1  |Cleaning up connection because of 13 resends of COMMAND packet
+2021-11-06 14:03:22.473488|INFO    |PktHandler    |1  |Dropping client 213 because of resend timeout
+2021-11-06 14:03:48.211300|INFO    |PktHandler    |1  |Cleaning up connection because of 13 resends of COMMAND packet
+2021-11-06 14:03:48.215468|INFO    |PktHandler    |1  |Dropping client 214 because of resend timeout
+2021-11-07 01:37:38.674832|INFO    |PktHandler    |1  |Dropping client 215 because of ping timeout 19 0 0
+2021-11-07 13:17:07.134423|INFO    |PktHandler    |1  |Dropping client 221 because of ping timeout 19 0 0
+2021-11-08 02:22:20.893491|INFO    |PktHandler    |1  |Dropping client 219 because of ping timeout 19 0 0
+2021-11-08 23:57:39.741250|INFO    |PktHandler    |1  |Dropping client 228 because of ping timeout 19 0 0
+2021-11-10 06:57:50.154217|INFO    |VirtualServerBase|1  |stopped
