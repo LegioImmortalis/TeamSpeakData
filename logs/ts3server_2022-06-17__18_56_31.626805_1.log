@@ -185,3 +185,5 @@
 2022-10-24 01:53:06.417542|INFO    |PktHandler    |1  |Dropping client 835 because of ping timeout 19 0 0
 2022-10-25 13:33:06.530941|INFO    |PktHandler    |1  |Dropping client 859 because of ping timeout 19 0 0
 2022-10-25 13:35:27.727192|INFO    |PktHandler    |1  |Dropping client 860 because of ping timeout 19 0 0
+2022-10-29 01:48:54.117808|INFO    |PktHandler    |1  |Dropping client 861 because of ping timeout 19 0 0
+2022-10-31 23:02:50.978943|INFO    |PktHandler    |1  |Dropping client 888 because of ping timeout 19 0 0

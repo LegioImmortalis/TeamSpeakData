@@ -348,3 +348,37 @@
 2022-10-26 21:29:00.964477|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
 2022-10-27 21:29:01.109576|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
 2022-10-28 21:29:01.332450|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-29 21:29:01.593889|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-30 21:29:01.781547|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-10-31 21:29:02.011184|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-11-01 00:02:31.763089|INFO    |VirtualSvrMgr |   |executing monthly interval
+2022-11-01 00:02:31.766285|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2022-11-01 08:15:21.479897|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 08:38:49.831799|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 09:03:51.273824|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 09:32:40.018240|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 09:59:25.941928|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 10:51:24.538538|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 10:53:21.564409|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 11:03:09.888567|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 11:06:35.007924|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 11:10:35.626003|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 11:25:25.421553|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 11:38:51.302675|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 11:51:42.799720|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 12:00:13.062509|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 12:06:12.372297|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 12:08:19.130904|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 12:38:48.965957|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 12:41:30.780991|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 12:43:56.473616|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 12:51:52.782819|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 13:53:25.807952|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 14:01:36.299554|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 14:28:36.257426|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 14:34:51.678677|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 14:42:31.856938|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 15:01:41.238470|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 15:12:20.171329|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 15:18:01.155744|ERROR   |              |   |Error creating ephemeral license: EXPIRED
+2022-11-01 15:22:20.298462|ERROR   |              |   |Error creating ephemeral license: EXPIRED
